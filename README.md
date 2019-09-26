@@ -4,3 +4,9 @@ everything correctly
 
 If you want to run this code, download Anaconda and use Spyder to run this, Anaconda comes with tensorflow pre-installed along with a bunch 
 of other useful libraries for python. 
+
+Just a quick overview of what the code does:
+The MNIST dataset is about 60000 images that are 28x28 pixels, and they all contain handwritten numbers, the goal of this AI is to be
+able to recognize and categorize each number based on what it thinks it is (at the end of training if you run it, it will tell you the
+accuracy of it). With the current parameters that I have in the AI, it gets about 90% accuracy each time you run it. Fell free to download
+this and experiment with the parameters and see if you can do better!
